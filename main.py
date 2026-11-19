@@ -30,17 +30,22 @@ def contar_palavras(textos: pd.Series, top_n: int = 8) -> list[tuple[str, int]]:
 
 
 def main():
+    os.makedirs("tabelas", exist_ok=True)
+    os.makedirs("graficos", exist_ok=True)
+
+    caminho_antigas = "tabelas/avaliacoes_antigas.csv"
+    caminho_novas = "tabelas/avaliacoes_novas.csv"
+    caminho_classificadas = "tabelas/avaliacoes_novas_classificadas.csv"
+
     # 1. Carrega ou gera as bases de dados (400 antigas e 150 novas)
-    if not os.path.exists("avaliacoes_antigas.csv") or not os.path.exists("avaliacoes_novas.csv"):
+    if not os.path.exists(caminho_antigas) or not os.path.exists(caminho_novas):
         df_antigas = gerar_avaliacoes_antigas(400)
         df_novas = gerar_avaliacoes_novas(150)
-        df_antigas.to_csv("avaliacoes_antigas.csv", index=False, encoding="utf-8")
-        df_novas.to_csv("avaliacoes_novas.csv", index=False, encoding="utf-8")
+        df_antigas.to_csv(caminho_antigas, index=False, encoding="utf-8")
+        df_novas.to_csv(caminho_novas, index=False, encoding="utf-8")
     else:
-        df_antigas = pd.read_csv("avaliacoes_antigas.csv")
-        df_novas = pd.read_csv("avaliacoes_novas.csv")
-
-    os.makedirs("graficos", exist_ok=True)
+        df_antigas = pd.read_csv(caminho_antigas)
+        df_novas = pd.read_csv(caminho_novas)
 
     # 2. Vetorizacao simples (Bag of Words) e Modelo Pequeno (Naive Bayes)
     vetorizador = CountVectorizer()
@@ -69,7 +74,7 @@ def main():
     modelo.fit(X, y)
     X_novas = vetorizador.transform(df_novas["texto_avaliacao"])
     df_novas["sentimento_previsto"] = modelo.predict(X_novas)
-    df_novas.to_csv("avaliacoes_novas_classificadas.csv", index=False, encoding="utf-8")
+    df_novas.to_csv(caminho_classificadas, index=False, encoding="utf-8")
 
     # 4. Relatorio para o Gerente
     print("=" * 58)

@@ -10,11 +10,11 @@
 
 A **TechLoja** vende quatro produtos: **Fone**, **Smartwatch**, **Caixa de Som** e **Carregador**.
 
-1. **Treinamento (`avaliacoes_antigas.csv`):** O modelo é treinado com **400 avaliações antigas** que possuem nota em estrelas (`1` a `5`), divididas em 3 classes:
+1. **Treinamento ([`tabelas/avaliacoes_antigas.csv`](tabelas/avaliacoes_antigas.csv)):** O modelo é treinado com **400 avaliações antigas** que possuem nota em estrelas (`1` a `5`), divididas em 3 classes:
    - **Positiva:** 4 e 5 estrelas
    - **Neutra:** 3 estrelas
    - **Negativa (Reclamação):** 1 e 2 estrelas
-2. **Aplicação (`avaliacoes_novas.csv`):** O modelo treinado é aplicado em **150 avaliações novas** que possuem **apenas texto** (sem estrelas), gerando o arquivo [`avaliacoes_novas_classificadas.csv`](avaliacoes_novas_classificadas.csv) e montando o relatório para o gerente.
+2. **Aplicação ([`tabelas/avaliacoes_novas.csv`](tabelas/avaliacoes_novas.csv)):** O modelo treinado é aplicado em **150 avaliações novas** que possuem **apenas texto** (sem estrelas), gerando o arquivo [`tabelas/avaliacoes_novas_classificadas.csv`](tabelas/avaliacoes_novas_classificadas.csv) e montando o relatório para o gerente.
 
 ---
 

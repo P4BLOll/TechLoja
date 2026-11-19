@@ -140,8 +140,10 @@ def gerar_avaliacoes_novas(n_avaliacoes: int = 150, seed: int = 100) -> pd.DataF
 
 
 if __name__ == "__main__":
+    import os
+    os.makedirs("tabelas", exist_ok=True)
     df_antigas = gerar_avaliacoes_antigas(400)
     df_novas = gerar_avaliacoes_novas(150)
-    df_antigas.to_csv("avaliacoes_antigas.csv", index=False, encoding="utf-8")
-    df_novas.to_csv("avaliacoes_novas.csv", index=False, encoding="utf-8")
-    print("Arquivos 'avaliacoes_antigas.csv' (400) e 'avaliacoes_novas.csv' (150) gerados!")
+    df_antigas.to_csv("tabelas/avaliacoes_antigas.csv", index=False, encoding="utf-8")
+    df_novas.to_csv("tabelas/avaliacoes_novas.csv", index=False, encoding="utf-8")
+    print("Arquivos salvos na pasta 'tabelas/'!")
