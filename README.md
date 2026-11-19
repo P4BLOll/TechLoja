@@ -1,7 +1,7 @@
 # Classificação de Avaliações da TechLoja com Machine Learning
 
 **Disciplina:** Inteligência Artificial  
-**Integrantes (Dupla):** Pablo de Sousa Santos • Gabriel Messias da Silva  
+**Integrantes:** Rebeca Matewanga • Mariana Ocireu • Pablo de Sousa  
 **Relatório para o Gerente:** [`relatorio_gerente.md`](relatorio_gerente.md)  
 
 ---

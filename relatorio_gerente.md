@@ -1,5 +1,6 @@
 # Relatório para o Gerente — TechLoja
 
+**Integrantes:** Rebeca Matewanga • Mariana Ocireu • Pablo de Sousa  
 **Base Analisada:** 150 avaliações novas (somente texto), classificadas pelo modelo **Naive Bayes (`MultinomialNB`)** treinado com 400 avaliações antigas com estrelas.
 
 ---
