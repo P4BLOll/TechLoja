@@ -1,0 +1,151 @@
+id_avaliacao,produto,texto_avaliacao,sentimento_previsto
+1,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+2,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+3,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+4,Carregador,"Péssimo carregador, o cabo deu mau contato e parou de funcionar.",Negativa
+5,Fone,"Fone maravilhoso, som alto e cristalino, bateria dura bastante.",Positiva
+6,Smartwatch,"Ótimo para treinos, sensores precisos e pulseira confortável.",Positiva
+7,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+8,Carregador,"Perigoso, o carregador esquenta muito na tomada e carrega lento.",Negativa
+9,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+10,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+11,Caixa de Som,"Muito ruim, volume baixo, áudio distorce e bateria dura pouco.",Negativa
+12,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+13,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+14,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+15,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+16,Carregador,"Péssimo carregador, o cabo deu mau contato e parou de funcionar.",Negativa
+17,Fone,"Produto mediano, o som é aceitável mas o material é simples.",Neutra
+18,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+19,Caixa de Som,"Caixa de som mediana, boa para quarto pequeno mas volume normal.",Neutra
+20,Carregador,"Ótimo carregador turbo, cabo resistente e carregamento seguro.",Positiva
+21,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+22,Smartwatch,"Não recomendo, perde conexão com o aplicativo e a tela fica travando.",Negativa
+23,Caixa de Som,"Produto regular, cumpre o básico pelo preço cobrado.",Neutra
+24,Carregador,"Funciona perfeitamente, recarga veloz e material bem firme.",Positiva
+25,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+26,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+27,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+28,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+29,Fone,"Produto mediano, o som é aceitável mas o material é simples.",Neutra
+30,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+31,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+32,Carregador,"Carregador regular, carrega em velocidade normal e o cabo é curto.",Neutra
+33,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+34,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+35,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+36,Carregador,"Péssimo carregador, o cabo deu mau contato e parou de funcionar.",Negativa
+37,Fone,"Horrível, o bluetooth desconecta sozinho e o microfone é baixo.",Negativa
+38,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+39,Caixa de Som,"Caixa de som horrível, o áudio distorce no volume alto e tem chiado.",Negativa
+40,Carregador,"Razoável pelo preço, funciona normal para carregar à noite.",Neutra
+41,Fone,"O fone é razoável pelo preço, cumpre o básico para o dia a dia.",Neutra
+42,Smartwatch,"Relógio regular, cumpre o básico pelo valor pago.",Neutra
+43,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+44,Carregador,"Ótimo carregador turbo, cabo resistente e carregamento seguro.",Positiva
+45,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+46,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+47,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+48,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+49,Fone,"Ótimo custo benefício, conecta rápido no bluetooth e tem bons graves.",Positiva
+50,Smartwatch,"Não recomendo, perde conexão com o aplicativo e a tela fica travando.",Negativa
+51,Caixa de Som,"Muito ruim, volume baixo, áudio distorce e bateria dura pouco.",Negativa
+52,Carregador,"Horrível, parou de carregar na primeira semana e o cabo quebrou.",Negativa
+53,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+54,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+55,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+56,Carregador,"Funciona perfeitamente, recarga veloz e material bem firme.",Positiva
+57,Fone,"Ótimo custo benefício, conecta rápido no bluetooth e tem bons graves.",Positiva
+58,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+59,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+60,Carregador,"Razoável pelo preço, funciona normal para carregar à noite.",Neutra
+61,Fone,"Fone maravilhoso, som alto e cristalino, bateria dura bastante.",Positiva
+62,Smartwatch,"Ótimo para treinos, sensores precisos e pulseira confortável.",Positiva
+63,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+64,Carregador,"Carregador excelente, carrega muito rápido e não esquenta.",Positiva
+65,Fone,"Parou de funcionar um lado, áudio com muito chiado e bateria fraca.",Negativa
+66,Smartwatch,"Horrível, a bateria acaba rápido, a pulseira soltou e trava muito.",Negativa
+67,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+68,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+69,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+70,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+71,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+72,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+73,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+74,Smartwatch,"Não recomendo, perde conexão com o aplicativo e a tela fica travando.",Negativa
+75,Caixa de Som,"Não recomendo, apresenta chiado constante e o som distorce tudo.",Negativa
+76,Carregador,"Produto mediano, cumpre o básico mas não achei tão rápido.",Neutra
+77,Fone,"O fone é razoável pelo preço, cumpre o básico para o dia a dia.",Neutra
+78,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+79,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+80,Carregador,"Ótimo carregador turbo, cabo resistente e carregamento seguro.",Positiva
+81,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+82,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+83,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+84,Carregador,"Horrível, parou de carregar na primeira semana e o cabo quebrou.",Negativa
+85,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+86,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+87,Caixa de Som,"Som razoável, falta um pouco de grave mas funciona normal.",Neutra
+88,Carregador,"Péssimo carregador, o cabo deu mau contato e parou de funcionar.",Negativa
+89,Fone,"Fone maravilhoso, som alto e cristalino, bateria dura bastante.",Positiva
+90,Smartwatch,"Razoável, funciona para ver horas e mensagens sem grandes destaques.",Neutra
+91,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+92,Carregador,"Funciona perfeitamente, recarga veloz e material bem firme.",Positiva
+93,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+94,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+95,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+96,Carregador,"Carregador regular, carrega em velocidade normal e o cabo é curto.",Neutra
+97,Fone,"Adorei o áudio, cancelamento de ruído ótimo e muito confortável.",Positiva
+98,Smartwatch,"Smartwatch mediano, mostra as notificações mas a bateria é comum.",Neutra
+99,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+100,Carregador,"Carregador regular, carrega em velocidade normal e o cabo é curto.",Neutra
+101,Fone,"O fone é razoável pelo preço, cumpre o básico para o dia a dia.",Neutra
+102,Smartwatch,"Horrível, a bateria acaba rápido, a pulseira soltou e trava muito.",Negativa
+103,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+104,Carregador,"Carregador excelente, carrega muito rápido e não esquenta.",Positiva
+105,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+106,Smartwatch,"Não recomendo, perde conexão com o aplicativo e a tela fica travando.",Negativa
+107,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+108,Carregador,"Horrível, parou de carregar na primeira semana e o cabo quebrou.",Negativa
+109,Fone,"Péssimo fone, tem chiado constante e a bateria acaba rápido.",Negativa
+110,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+111,Caixa de Som,"Qualidade de áudio incrível, não distorce e tem ótima bateria.",Positiva
+112,Carregador,"Funciona perfeitamente, recarga veloz e material bem firme.",Positiva
+113,Fone,"Parou de funcionar um lado, áudio com muito chiado e bateria fraca.",Negativa
+114,Smartwatch,"Relógio com defeito, não sincroniza no celular e a pulseira quebrou.",Negativa
+115,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+116,Carregador,"Recomendo, carrega o celular super rápido e tem ótima qualidade.",Positiva
+117,Fone,"Fone maravilhoso, som alto e cristalino, bateria dura bastante.",Positiva
+118,Smartwatch,"Adorei o relógio, sincroniza rápido com o celular e é muito bonito.",Positiva
+119,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+120,Carregador,"Horrível, parou de carregar na primeira semana e o cabo quebrou.",Negativa
+121,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+122,Smartwatch,"Razoável, funciona para ver horas e mensagens sem grandes destaques.",Neutra
+123,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+124,Carregador,"Funciona perfeitamente, recarga veloz e material bem firme.",Positiva
+125,Fone,"Ótimo custo benefício, conecta rápido no bluetooth e tem bons graves.",Positiva
+126,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
+127,Caixa de Som,"Adorei a caixa, bateria dura muitas horas e o bluetooth é ótimo.",Positiva
+128,Carregador,"Ótimo carregador turbo, cabo resistente e carregamento seguro.",Positiva
+129,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+130,Smartwatch,"Recomendo muito, relógio rápido, tela nítida e ótima bateria.",Positiva
+131,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+132,Carregador,"Carregador excelente, carrega muito rápido e não esquenta.",Positiva
+133,Fone,"Parou de funcionar um lado, áudio com muito chiado e bateria fraca.",Negativa
+134,Smartwatch,"Ótimo para treinos, sensores precisos e pulseira confortável.",Positiva
+135,Caixa de Som,"Caixa de som excelente, volume alto, som limpo e graves potentes.",Positiva
+136,Carregador,"Carregador excelente, carrega muito rápido e não esquenta.",Positiva
+137,Fone,"Ótimo custo benefício, conecta rápido no bluetooth e tem bons graves.",Positiva
+138,Smartwatch,"Horrível, a bateria acaba rápido, a pulseira soltou e trava muito.",Negativa
+139,Caixa de Som,"Muito ruim, volume baixo, áudio distorce e bateria dura pouco.",Negativa
+140,Carregador,"Perigoso, o carregador esquenta muito na tomada e carrega lento.",Negativa
+141,Fone,"Excelente fone, som muito limpo e a bateria dura o dia todo.",Positiva
+142,Smartwatch,"Smartwatch mediano, mostra as notificações mas a bateria é comum.",Neutra
+143,Caixa de Som,"Som forte e sem ruídos, ótimo custo benefício, recomendo demais.",Positiva
+144,Carregador,"Carregador excelente, carrega muito rápido e não esquenta.",Positiva
+145,Fone,"Péssimo fone, tem chiado constante e a bateria acaba rápido.",Negativa
+146,Smartwatch,"Ótimo para treinos, sensores precisos e pulseira confortável.",Positiva
+147,Caixa de Som,"Não recomendo, apresenta chiado constante e o som distorce tudo.",Negativa
+148,Carregador,"Razoável pelo preço, funciona normal para carregar à noite.",Neutra
+149,Fone,"Fone maravilhoso, som alto e cristalino, bateria dura bastante.",Positiva
+150,Smartwatch,"Smartwatch excelente, tela brilhante e bateria dura vários dias.",Positiva
